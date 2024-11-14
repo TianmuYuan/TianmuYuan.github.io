@@ -21,4 +21,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-In progress.
+I am a Postdoctoral Research Associate at Newcastle University with a background in Chemical Engineering. 
+
+My research interests lie in thermodynamics, statistical mechanics, and molecular simulations. Currently, my work centers on advancing solid-state batteries, though I am also passionate about the field of crystal nucleation and membrane separation.
