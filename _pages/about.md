@@ -2,9 +2,9 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Postdoctoral Research Associate at Newcastle University</a>.  \\
-    Address. \\
-    Contacts. \\
+subtitle: <a href='#'>Postdoctoral Research Associate at Newcastle University</a> <br>
+    Address. <br>
+    Contacts. <br>
 
 profile:
   align: right
