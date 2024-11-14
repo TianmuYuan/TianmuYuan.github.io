@@ -3,8 +3,8 @@ layout: about
 title: Home
 permalink: /
 subtitle: <a href='#'>Postdoctoral Research Associate at Newcastle University</a> <br>
-    <a href='https://www.ncl.ac.uk/nes/'> School of Natural and Environmental Sciences</a> <br> 
-    <a href='https://www.ncl.ac.uk/sage/'>  Faculty of Science, Agriculture and Engineering </a> <br>
+  <a href='https://www.ncl.ac.uk/nes/'> School of Natural and Environmental Sciences</a> <br> 
+  <a href='https://www.ncl.ac.uk/sage/'>  Faculty of Science, Agriculture and Engineering </a> <br>
 
 profile:
   align: right
