@@ -2,11 +2,9 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Postdoctoral Research Associate at Newcastle University</a>. 
-    Address. 
-    Contacts. 
-    Motto. 
-    Etc.
+subtitle: <a href='#'>Postdoctoral Research Associate at Newcastle University</a>.  \\
+    Address. \\
+    Contacts. \\
 
 profile:
   align: right
@@ -22,4 +20,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I will write it later.
+
+In progress.
