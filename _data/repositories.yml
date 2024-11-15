@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - tianmuyuan
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - TianmuYuan/DCVGCMD
+  - TianmuYuan/TianmuYuan.github.io
+  - TianmuYuan/Molecular-simulations
+  - TianmuYuan/MD_analysis
