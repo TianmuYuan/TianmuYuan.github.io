@@ -166,7 +166,6 @@ In order to use this you need to save all of your "Completed" blog posts which a
 
 > Incomplete posts should be saved in `_drafts/`
 
-
 ### Important Notes
 
 - The scheduler uploads posts everyday at 🕛 23:30 UTC
